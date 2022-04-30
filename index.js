@@ -1,4 +1,4 @@
 function test()
 {
-    alert('Full Stack Training with Rony Rizk')
+    alert('Full Stack Training!!!')
 }
